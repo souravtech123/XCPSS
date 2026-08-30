@@ -1,0 +1,39 @@
+Earlier i think Making an app 
+is like think properly then 
+Design now i reliased Make 
+on Feature Deploy it then add 
+SLowly all the feature
+
+Then for my Placement app 
+Which can be First Feature 
+Student Come and Register 
+or Placement Cell Upload and Anyone can see?
+
+
+Lets Design the Feature 1 
+
+Admin 
+Admin Uploads 
+Student can see 
+and apply clicking apply currently it asks
+for personal Details and all apply 
+and Admin Who are students who applied for
+
+
+Feature 1 Flow
+
+Admin Uploads 
+in Admin Upload Jobs Description and Workshops and 
+if Provided OnCampus then no Links 
+Student Apply 
+Admin can see who are the students who 
+applied 
+
+
+For this Feature 
+There are 3 Types of Data
+Jobs
+Workshops 
+application 
+
+For Backend Three Different Routes 
