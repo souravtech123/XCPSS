@@ -8,6 +8,8 @@ const {
     deleteJob
 } = require("../controllers/jobcontrollers");
 
+//routes
+
 const router = express.Router();
 
 
